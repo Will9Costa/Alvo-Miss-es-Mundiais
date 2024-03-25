@@ -4,7 +4,7 @@ let startButton = document.querySelector(".startButton");
 
 let progress;
 let progressValue = 0;
-let progressEndValue = 33;
+let progressEndValue = 35;
 let totalAmount = 3000; // Valor total em reais
 let speed = 100;
 
