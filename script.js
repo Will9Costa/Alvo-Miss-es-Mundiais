@@ -6,7 +6,7 @@ let progress;
 let progressValue = 0;
 let progressEndValue = 172;
 let totalAmount = 3000; // Valor total em reais
-let speed = 100;
+let speed = 30;
 
 function formatCurrency(value) {
     return `R$ ${value.toFixed(2)}`;
